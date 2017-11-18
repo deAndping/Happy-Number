@@ -1,0 +1,1 @@
+Figure out that if the number is not a Happy Number, there must be a recurring number.
